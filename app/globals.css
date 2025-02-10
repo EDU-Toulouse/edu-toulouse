@@ -19,3 +19,16 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Containers */
+
+.container {
+  padding: 1rem;
+}
+
+/* Texts */
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+}
